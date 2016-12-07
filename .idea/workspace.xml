@@ -1,7 +1,149 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="90e5efbc-2aae-41c4-bc94-495665706395" name="Default" comment="" />
+    <list default="true" id="90e5efbc-2aae-41c4-bc94-495665706395" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/applicationContext.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/zhangkai/demo/base/beanUtil/ApplicationContextUtil.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/zhangkai/demo/base/beanUtil/MyThreadLocal$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/zhangkai/demo/base/beanUtil/MyThreadLocal.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/zhangkai/demo/base/beanUtil/SingletonClass.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/zhangkai/demo/controller/TestController.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/zhangkai/demo/jms/customer/DNJmsCustomer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/zhangkai/demo/jms/customer/MessageListenerImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/zhangkai/demo/jms/customer/impl/DNJmsCustomerImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/zhangkai/demo/jms/provider/DNJmsProvider.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/zhangkai/demo/jms/provider/impl/DNJmsProviderImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/zhangkai/demo/mapper/BaseMapper.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/zhangkai/demo/mapper/StudentMapper.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/zhangkai/demo/mapper/UserMapper.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/zhangkai/demo/mapper/UserMapper.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/zhangkai/demo/mapper/xml/StudentMapper.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/zhangkai/demo/mapper/xml/UserMapper.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/zhangkai/demo/pojo/Page.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/zhangkai/demo/pojo/Student.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/zhangkai/demo/pojo/TestPojo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/zhangkai/demo/pojo/User.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/zhangkai/demo/redis/JedisClusterFactory.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/zhangkai/demo/service/AbstractBaseService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/zhangkai/demo/service/BaseService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/zhangkai/demo/service/IStudentService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/zhangkai/demo/service/IUserService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/zhangkai/demo/service/impl/StudentServiceImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/zhangkai/demo/service/impl/UserServiceImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/zhangkai/demo/test/JmsProviderTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/zhangkai/demo/test/JmsTest$A.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/zhangkai/demo/test/JmsTest$B.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/zhangkai/demo/test/JmsTest$C.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/zhangkai/demo/test/JmsTest$D.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/zhangkai/demo/test/JmsTest$E.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/zhangkai/demo/test/JmsTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/database.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/mybatis.cfg.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/mybatis/generatorConfig.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/redis/redis-cluster.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/redis/redis.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/spring-beans.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/spring-config.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/spring-controller.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/spring-jdbc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/spring-mvc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/spring-mybatis-mapper.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/spring-redis.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/spring-service.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/spring-session-cluster.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/spring-session.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/dongnao/META-INF/MANIFEST.MF" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/dongnao/WEB-INF/classes/applicationContext.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/dongnao/WEB-INF/classes/com/zhangkai/demo/base/beanUtil/ApplicationContextUtil.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/dongnao/WEB-INF/classes/com/zhangkai/demo/base/beanUtil/MyThreadLocal$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/dongnao/WEB-INF/classes/com/zhangkai/demo/base/beanUtil/MyThreadLocal.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/dongnao/WEB-INF/classes/com/zhangkai/demo/base/beanUtil/SingletonClass.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/dongnao/WEB-INF/classes/com/zhangkai/demo/controller/TestController.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/dongnao/WEB-INF/classes/com/zhangkai/demo/jms/customer/DNJmsCustomer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/dongnao/WEB-INF/classes/com/zhangkai/demo/jms/customer/MessageListenerImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/dongnao/WEB-INF/classes/com/zhangkai/demo/jms/customer/impl/DNJmsCustomerImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/dongnao/WEB-INF/classes/com/zhangkai/demo/jms/provider/DNJmsProvider.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/dongnao/WEB-INF/classes/com/zhangkai/demo/jms/provider/impl/DNJmsProviderImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/dongnao/WEB-INF/classes/com/zhangkai/demo/mapper/BaseMapper.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/dongnao/WEB-INF/classes/com/zhangkai/demo/mapper/StudentMapper.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/dongnao/WEB-INF/classes/com/zhangkai/demo/mapper/UserMapper.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/dongnao/WEB-INF/classes/com/zhangkai/demo/mapper/UserMapper.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/dongnao/WEB-INF/classes/com/zhangkai/demo/mapper/xml/StudentMapper.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/dongnao/WEB-INF/classes/com/zhangkai/demo/mapper/xml/UserMapper.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/dongnao/WEB-INF/classes/com/zhangkai/demo/pojo/Page.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/dongnao/WEB-INF/classes/com/zhangkai/demo/pojo/Student.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/dongnao/WEB-INF/classes/com/zhangkai/demo/pojo/TestPojo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/dongnao/WEB-INF/classes/com/zhangkai/demo/pojo/User.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/dongnao/WEB-INF/classes/com/zhangkai/demo/redis/JedisClusterFactory.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/dongnao/WEB-INF/classes/com/zhangkai/demo/service/AbstractBaseService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/dongnao/WEB-INF/classes/com/zhangkai/demo/service/BaseService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/dongnao/WEB-INF/classes/com/zhangkai/demo/service/IStudentService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/dongnao/WEB-INF/classes/com/zhangkai/demo/service/IUserService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/dongnao/WEB-INF/classes/com/zhangkai/demo/service/impl/StudentServiceImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/dongnao/WEB-INF/classes/com/zhangkai/demo/service/impl/UserServiceImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/dongnao/WEB-INF/classes/com/zhangkai/demo/test/JmsProviderTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/dongnao/WEB-INF/classes/com/zhangkai/demo/test/JmsTest$A.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/dongnao/WEB-INF/classes/com/zhangkai/demo/test/JmsTest$B.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/dongnao/WEB-INF/classes/com/zhangkai/demo/test/JmsTest$C.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/dongnao/WEB-INF/classes/com/zhangkai/demo/test/JmsTest$D.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/dongnao/WEB-INF/classes/com/zhangkai/demo/test/JmsTest$E.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/dongnao/WEB-INF/classes/com/zhangkai/demo/test/JmsTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/dongnao/WEB-INF/classes/database.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/dongnao/WEB-INF/classes/mybatis.cfg.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/dongnao/WEB-INF/classes/mybatis/generatorConfig.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/dongnao/WEB-INF/classes/redis/redis-cluster.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/dongnao/WEB-INF/classes/redis/redis.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/dongnao/WEB-INF/classes/spring-beans.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/dongnao/WEB-INF/classes/spring-config.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/dongnao/WEB-INF/classes/spring-controller.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/dongnao/WEB-INF/classes/spring-jdbc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/dongnao/WEB-INF/classes/spring-mvc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/dongnao/WEB-INF/classes/spring-mybatis-mapper.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/dongnao/WEB-INF/classes/spring-redis.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/dongnao/WEB-INF/classes/spring-service.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/dongnao/WEB-INF/classes/spring-session-cluster.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/dongnao/WEB-INF/classes/spring-session.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/dongnao/WEB-INF/lib/aopalliance-1.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/dongnao/WEB-INF/lib/asm-3.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/dongnao/WEB-INF/lib/aspectjrt-1.8.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/dongnao/WEB-INF/lib/aspectjweaver-1.8.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/dongnao/WEB-INF/lib/c3p0-0.9.1.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/dongnao/WEB-INF/lib/cglib-2.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/dongnao/WEB-INF/lib/commons-logging-1.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/dongnao/WEB-INF/lib/commons-pool2-2.4.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/dongnao/WEB-INF/lib/jackson-annotations-2.8.4.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/dongnao/WEB-INF/lib/jackson-core-2.8.4.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/dongnao/WEB-INF/lib/jackson-databind-2.8.4.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/dongnao/WEB-INF/lib/jcl-over-slf4j-1.7.21.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/dongnao/WEB-INF/lib/jedis-2.9.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/dongnao/WEB-INF/lib/jstl-1.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/dongnao/WEB-INF/lib/mybatis-3.4.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/dongnao/WEB-INF/lib/mybatis-spring-1.3.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/dongnao/WEB-INF/lib/mysql-connector-java-5.1.38.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/dongnao/WEB-INF/lib/persistence-api-1.0.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/dongnao/WEB-INF/lib/slf4j-api-1.7.21.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/dongnao/WEB-INF/lib/spring-aop-4.3.3.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/dongnao/WEB-INF/lib/spring-beans-4.3.3.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/dongnao/WEB-INF/lib/spring-context-4.3.3.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/dongnao/WEB-INF/lib/spring-context-support-4.2.8.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/dongnao/WEB-INF/lib/spring-core-4.3.3.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/dongnao/WEB-INF/lib/spring-data-commons-1.12.5.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/dongnao/WEB-INF/lib/spring-data-keyvalue-1.1.5.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/dongnao/WEB-INF/lib/spring-data-redis-1.7.5.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/dongnao/WEB-INF/lib/spring-expression-4.3.3.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/dongnao/WEB-INF/lib/spring-jdbc-4.3.3.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/dongnao/WEB-INF/lib/spring-orm-4.3.3.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/dongnao/WEB-INF/lib/spring-oxm-4.2.8.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/dongnao/WEB-INF/lib/spring-session-1.2.2.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/dongnao/WEB-INF/lib/spring-tx-4.3.3.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/dongnao/WEB-INF/lib/spring-web-4.3.3.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/dongnao/WEB-INF/lib/spring-webmvc-4.3.3.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/dongnao/WEB-INF/lib/tomcat-servlet-api-8.0.20.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/dongnao/WEB-INF/springMVC-servlet.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/dongnao/WEB-INF/web.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/dongnao/index.jsp" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="dongnao.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -69,8 +211,8 @@
       <file leaf-file-name="applicationContext.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/resources/applicationContext.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.75989443">
-              <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
+            <state vertical-scroll-proportion="0.59102905">
+              <caret line="14" column="39" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
               <folding>
                 <marker date="1481113227000" expanded="true" signature="367:568" placeholder="..." />
               </folding>
@@ -137,6 +279,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -364,6 +509,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="dongnao" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dongnao" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dongnao" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1008,12 +1171,12 @@
       <workItem from="1481014766322" duration="4997000" />
       <workItem from="1481032329773" duration="6328000" />
       <workItem from="1481072954142" duration="19624000" />
-      <workItem from="1481096333470" duration="12193000" />
+      <workItem from="1481096333470" duration="12704000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="96741000" />
+    <option name="totallyTimeSpent" value="97252000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1505,8 +1668,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/applicationContext.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.75989443">
-          <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
+        <state vertical-scroll-proportion="0.59102905">
+          <caret line="14" column="39" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
           <folding>
             <marker date="1481113227000" expanded="true" signature="367:568" placeholder="..." />
           </folding>
